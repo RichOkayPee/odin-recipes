@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+This project is a simple HTML website for recipes. It is to test all the basic HTML knowledge I have aquired from completing 40 percent of the foundation course of the Odin Project. It is worth mention that I had to learn basic git commands and the right way to commit to be able to put this project on Github.
